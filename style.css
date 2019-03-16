@@ -4722,3 +4722,11 @@ width:110px;
     top: 0;
   }
 }
+
+.cover {
+	background-image: url(../images/cover.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	
+	}

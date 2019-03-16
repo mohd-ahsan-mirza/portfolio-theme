@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-<button type="button" class="btn btn-danger">WORKING></button>
+<section class="cover"></section>
 <?php get_footer(); ?>
