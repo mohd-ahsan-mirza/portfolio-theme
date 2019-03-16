@@ -38,7 +38,7 @@
             return error;
         
         $(".input-submit").addClass('loader');
-
+		console.log("emailAjax -> "+emailMeAjaxNonce);
     	$.ajax({
 			type: 'POST',
         	url: ajaxURL,
