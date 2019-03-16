@@ -6,7 +6,7 @@
         <script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/jquery.min.js'); ?>"></script>
         <script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/main.js'); ?>"></script>
         <script>
-         (function($){
+            (function($){
 	console.log("coming in here");
     $('.input-message').blur(function(){
 
@@ -75,6 +75,7 @@
     	});
 
 	});
+})
         </script>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
