@@ -9,10 +9,6 @@
 		 </script>
 		 <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>-->
 		<script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/jquery.min.js'); ?>"></script>
-		<script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/jquery.scrolly.min.js'); ?>"></script>
-		<script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/jquery.scrollex.min.js'); ?>"></script>
-		<script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/skel.min.js'); ?>"></script>
-		<script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/util.js'); ?>"></script>
 		<script src="<?php echo site_url('/wp-content/themes/portfolio-theme/js/main.js'); ?>"></script>
 		<link rel="icon" href="/logo.png">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
