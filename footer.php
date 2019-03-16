@@ -1,7 +1,3 @@
-<script>
-		    var ajaxURL="<?php echo admin_url( 'admin-ajax.php' ); ?>";
-		    var emailMeAjaxNonce = "<?php echo wp_create_nonce( 'emailMe-ajax-nonce' ); ?>";
-	    </script>
 <a class='openDialogLink' href="#openModal">Open Modal</a>
     <div id="openModal" class="modalDialog">
 		<div>
