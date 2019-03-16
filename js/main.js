@@ -1,4 +1,5 @@
 (function($){
+	console.log("coming in here");
     $('.input-message').blur(function(){
 
 		if( !$(this).val().length )
