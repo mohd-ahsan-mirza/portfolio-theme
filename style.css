@@ -1,3 +1,33 @@
+form {
+    margin: 0 0 2em 0;
+}
+
+    form .field {
+        margin-bottom: 1.5em;
+    }
+
+        form .field.half {
+            display: inline-block;
+            width: 48%;
+        }
+
+            form .field.half.first {
+                margin-right: 3%;
+            }
+
+    @media screen and (max-width: 980px) {
+
+        form .field.half {
+            display: block;
+            width: 100%;
+        }
+
+            form .field.half.first {
+                margin-right: 0;
+            }
+
+    }
+
 #footer {
     background-color: #F64747;
     color: #fdd1d1;
