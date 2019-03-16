@@ -1,0 +1,3 @@
+[submodule "git-automator"]
+	path = git-automator
+	url = https://mohd-ahsan-mirza:a986590a@github.com/mohd-ahsan-mirza/git-automator.git
