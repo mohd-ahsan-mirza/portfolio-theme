@@ -4729,6 +4729,5 @@ width:110px;
 	background-size: contain;
 	width: 100%;
 	height: 100%;
-	object-fit: cover;
-	overflow: hidden;
+	display:block;
 	}
