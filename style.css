@@ -4726,8 +4726,6 @@ width:110px;
 .cover {
 	background-image: url(images/cover.jpg);
   background-repeat: no-repeat;  
-  height: auto;
-	background-size: contain;
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
