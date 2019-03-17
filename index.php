@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-<section class="cover"></section>
+<div class="cover"></div>
 <?php get_footer(); ?>
