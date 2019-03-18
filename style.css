@@ -4792,6 +4792,7 @@ width:110px;
 
 .skills{
 	min-height:350px !important;
+	background-color: whitesmoke;
 }
 
 @media screen and (max-width: 736px) {
