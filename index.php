@@ -13,6 +13,8 @@
                 <li><span class='info-key'>Experience:</span><span class='info-value'>3+ Years</span></li>
                 <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer</span></li>
                 <li><span class='info-key'>Company:</span><span class='info-value'>Engage People Inc.</span></li>
+                <li><span class='info-key'>Location:</span><span class='info-value'>Toronto</span></li>
+                <li><span class='info-key'>Interests:</span><span class='info-value'>API Development,UI Design, Data Analysis, AI, Solution Architecture</span></li>
             </ul>
         </div>
     </section>
