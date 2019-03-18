@@ -4746,11 +4746,18 @@ width:110px;
 .card .bio {
 	margin-left:10%;
 	margin-right:10%;
-	margin-top:25px;
+	margin-top:50px;
 	max-width:80%;
 	min-width:80%;
 	width:80%;
-	font-size: 15px;
+	font-size: 20px;
 	opacity:1;
 	text-align: left;
+}
+
+@media screen and (max-width: 736px) {
+	.card .bio {
+		font-size: 15px;
+		margin-top: 25px;
+	}
 }
