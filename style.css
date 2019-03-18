@@ -4734,6 +4734,8 @@ width:110px;
 .card {
 	max-width: 100%;
 	min-height:350px;
+	margin-left:10%;
+	margin-right:10%;
 	height:auto;
   margin: auto;
 	text-align: center;
@@ -4745,19 +4747,19 @@ width:110px;
 }
 
 .card .bio, .card .info{
-	margin-left:10%;
-	margin-right:10%;
 	margin-top:50px;
 	max-width:40%;
 	min-width:40%;
 	width:40%;
 	font-size: 18px;
 	opacity:1;
+	text-align: left;
 }
 
 .card .info{
 	float: right;
 	border-left-width: 5px;
+
 }
 
 @media screen and (max-width: 736px) {
