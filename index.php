@@ -25,7 +25,7 @@
         <h1 class='text-center'>SKILLS</h1>
         <div class='skills-section1 col-lg-6 col-md-6 col-sm-12'>
             <div class="skillbar clearfix " data-percent="80%">
-			    <div class="skillbar-title"><span>PHP</span></div>
+			    <div class="skillbar-title" style="background: rgb(246, 71, 71);"><span>PHP</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">2 Years</div>
             </div>
