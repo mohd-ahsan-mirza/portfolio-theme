@@ -71,6 +71,11 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">4 months</div>
             </div>
+            <div class="skillbar clearfix " data-percent="60%">
+			    <div class="skillbar-title" style="background: red;"><span>CSS</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+				<div class="skill-bar-percent">4 months</div>
+            </div>
         </div>
     </section>
 <?php get_footer(); ?>
