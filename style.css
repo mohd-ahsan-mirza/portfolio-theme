@@ -4733,9 +4733,10 @@ width:110px;
 
 .card {
 	max-width: 100%;
+	min-width: 100%;
 	min-height:350px;
 	height:auto;
-  margin: auto;
+  margin: 0;
 	text-align: center;
 }
 
@@ -4749,8 +4750,8 @@ width:110px;
 }
 
 .card .bio, .card .info{
-	margin-left:0;
-	margin-right:0;
+	margin-left:10%;
+	margin-right:10%;
 	margin-top:50px;
 	max-width:30%;
 	min-width:30%;
