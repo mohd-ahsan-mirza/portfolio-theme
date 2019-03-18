@@ -1,7 +1,5 @@
 (function($) {
 
-	$(function() {
-
 	$(".input-submit").click(function(event){
 
 		event.preventDefault();
@@ -59,7 +57,11 @@
 	$(".close").click(function(){
 		$(".modalDialog div p").html("");
 	});
-	
+
+	$('.skillbar').each(function(){
+		$(this).find('.skillbar-bar').animate({
+			width:$(this).attr('data-percent')
+		},6000);
 	});
 
 })(jQuery);
