@@ -16,8 +16,9 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font-family: Arial, Helvetica, sans-serif;
 		vertical-align: baseline;
+
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -4732,11 +4733,10 @@ width:110px;
 
 .card {
 	max-width: 100%;
-	min-height:400px;
+	min-height:300px;
 	height:auto;
   margin: auto;
 	text-align: center;
-	font-family: Arial, Helvetica, sans-serif;
 }
 
 .card .title {
@@ -4760,5 +4760,10 @@ width:110px;
 	.card .bio {
 		font-size: 15px;
 		margin-top: 25px;
+		margin-left:10%;
+		margin-right:10%;
+		max-width:80%;
+		min-width:80%;
+		width:80%;
 	}
 }
