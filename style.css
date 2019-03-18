@@ -4795,6 +4795,10 @@ width:110px;
 	background-color: whitesmoke;
 }
 
+.skills-section1{
+	margin-top:50px;
+}
+
 @media screen and (max-width: 736px) {
 	.card .title{
 		font-size:20px;
