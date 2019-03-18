@@ -4800,7 +4800,7 @@ width:110px;
 	}
 
 	.card .info{
-		float: inline-start;
+		float: unset;
 	}
 	
 
