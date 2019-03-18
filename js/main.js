@@ -62,7 +62,7 @@
 
 	$(window).scroll(function() {
 		var scrollTop = $(this).scrollTop();
-		if(screenTop > 100)
+		if(scrollTop > 100)
 		{
 			console.log("In here");
 			$('.card .bio').css({
