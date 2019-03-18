@@ -61,6 +61,7 @@
 	});
 
 	$(window).scroll(function() {
+		console.log("coming in here");
 		var scrollTop = $(this).scrollTop();
 	  
 		$('.card .bio').css({
