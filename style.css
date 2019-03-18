@@ -4768,6 +4768,8 @@ width:110px;
 	border-left-color: black;
 	border-left-style: solid;
 	min-height: 300px;
+	margin-left: 0;
+	margin-right: 20%;
 }
 
 .card .info ul{
