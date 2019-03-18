@@ -59,6 +59,17 @@
 	$(".close").click(function(){
 		$(".modalDialog div p").html("");
 	});
+
+	$(window).scroll(function() {
+		var scrollTop = $(this).scrollTop();
+	  
+		$('.card .bio').css({
+		  opacity: function() {
+			var elementHeight = $(this).height();
+			return 1 - (elementHeight - scrollTop) / elementHeight;
+		  }
+		});
+	});
 	
 	});
 
