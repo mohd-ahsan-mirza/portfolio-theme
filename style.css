@@ -4791,7 +4791,7 @@ width:110px;
 }
 
 .skills{
-	min-height:400px;
+	min-height:350px;
 	background-color: whitesmoke;
 	height:100%;
 	width:100%;
@@ -4802,7 +4802,7 @@ width:110px;
 }
 
 .skills-section1, .skills-section2{
-	margin-top:40px;
+	margin-top:35px;
 	display: block;
 	height:100%;
 	width:100%;
