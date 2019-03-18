@@ -4757,6 +4757,9 @@ width:110px;
 }
 
 @media screen and (max-width: 736px) {
+	.card .title{
+		font-size:20px;
+	}
 	.card .bio {
 		font-size: 15px;
 		margin-top: 25px;
