@@ -4732,6 +4732,7 @@ width:110px;
 
 .card {
 	max-width: 100%;
+	min-height:400px;
 	height:auto;
   margin: auto;
   text-align: center;
