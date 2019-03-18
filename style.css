@@ -4781,6 +4781,10 @@ width:110px;
 	list-style: none;
 }
 
+.card .info .info-value{
+	padding-left: 5px;
+}
+
 @media screen and (max-width: 736px) {
 	.card .title{
 		font-size:20px;
