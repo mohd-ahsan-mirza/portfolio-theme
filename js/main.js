@@ -62,9 +62,9 @@
 
 	$(window).scroll(function() {
 		var scrollTop = $(this).scrollTop();
-		console.log(scrollTop);
 		if(screenTop > 100)
 		{
+			console.log("In here");
 			$('.card .bio').css({
 		  	opacity: function() {
 				var elementHeight = $(this).height();
