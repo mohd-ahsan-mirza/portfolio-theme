@@ -4799,6 +4799,10 @@ width:110px;
 		width:80%;
 	}
 
+	.card .bio{
+		max-height: 100px;
+	}
+
 	.card .info{
 		float: unset;
 	}
