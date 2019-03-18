@@ -4783,7 +4783,7 @@ width:110px;
 
 .card .info .info-value{
 	padding-left: 5px;
-	color: grey !important;
+	color: grey;
 }
 
 @media screen and (max-width: 736px) {

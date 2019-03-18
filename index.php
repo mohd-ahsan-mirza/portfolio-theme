@@ -11,6 +11,8 @@
         <div class="info">
             <ul>
                 <li><span class='info-key'>Experience:</span><span class='info-value'>3+ Years</span></li>
+                <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer</span></li>
+                <li><span class='info-key'>Company:</span><span class='info-value'>Engage People Inc.</span></li>
             </ul>
         </div>
     </section>
