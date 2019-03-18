@@ -4752,13 +4752,11 @@ width:110px;
 	min-width:30%;
 	width:30%;
 	font-size: 18px;
-	opacity:1;
 	text-align: left;
 }
 
 .card .info{
 	float: right;
-	border-left-width: 5px;
 }
 
 @media screen and (max-width: 736px) {
