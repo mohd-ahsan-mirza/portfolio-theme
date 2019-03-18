@@ -25,7 +25,7 @@
         <h1 class='text-center'>SKILLS</h1>
         <div class='skills-section1 col-lg-6 col-md-6 col-sm-12'>
             <div class="skillbar clearfix " data-percent="90%">
-			    <div class="skillbar-title" style="background: red;"><span>PHP</span></div>
+			    <div class="skillbar-title" style="background: red;"><span>PHP (Laravel)</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">3 Years</div>
             </div>
@@ -48,11 +48,6 @@
 			    <div class="skillbar-title" style="background: red;"><span>Python</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">2 Years</div>
-            </div>
-            <div class="skillbar clearfix " data-percent="50%">
-			    <div class="skillbar-title" style="background: red;"><span>Laravel</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<div class="skill-bar-percent">1 Year</div>
             </div>
         </div>
         <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
