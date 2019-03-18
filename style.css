@@ -4747,8 +4747,5 @@ width:110px;
 	margin-right:20%;
 	margin-top:50px;
 	font-size: 18px;
-}
-
-card .bio:focus {
-	height:100px;
+	opacity:0;
 }
