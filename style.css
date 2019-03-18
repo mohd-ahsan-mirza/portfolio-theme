@@ -4749,8 +4749,8 @@ width:110px;
 }
 
 .card .bio, .card .info{
-	margin-left:10% !important;
-	margin-right:10% !important;
+	margin-left:0;
+	margin-right:0;
 	margin-top:50px;
 	max-width:30%;
 	min-width:30%;
