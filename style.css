@@ -4741,3 +4741,7 @@ width:110px;
   color: grey;
   font-size: 18px;
 }
+
+.card .bio {
+	font-size: 15px;
+}
