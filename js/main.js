@@ -62,13 +62,16 @@
 
 	$(window).scroll(function() {
 		var scrollTop = $(this).scrollTop();
-		console.log(scrollTop);
-		$('.card .bio').css({
-		  opacity: function() {
-			var elementHeight = $(this).height();
-			return 1 - (elementHeight - scrollTop) / elementHeight;
-		  }
-		});
+		
+		if(screenTop > 100)
+		{
+			$('.card .bio').css({
+		  	opacity: function() {
+				var elementHeight = $(this).height();
+				return 1 - (elementHeight - scrollTop) / elementHeight;
+		  	}
+			});
+		}
 	});
 	
 	});
