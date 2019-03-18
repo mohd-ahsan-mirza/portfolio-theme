@@ -4785,4 +4785,14 @@ width:110px;
 		font-size: 15px;
 		margin-top: 25px;
 	}
+
+	.card .bio, .card .info{
+		margin-left:10%;
+		margin-right:10%;
+		max-width:80%;
+		min-width:80%;
+		width:80%;
+	}
+	
+
 }
