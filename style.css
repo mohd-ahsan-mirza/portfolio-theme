@@ -4810,8 +4810,14 @@ width:110px;
 		border-top-width: 10px;
 		border-top-color: black;
 		border-top-style: solid;
+		text-align :center;
 		
 	}
+
+	.card .info ul{
+		margin-top:10px;
+	}
+
 	
 
 }
