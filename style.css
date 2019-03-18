@@ -4759,6 +4759,7 @@ width:110px;
 	font-size: 18px;
 	text-align: left;
 	display: inline-block;
+	min-height: inherit;
 }
 
 .card .info{
