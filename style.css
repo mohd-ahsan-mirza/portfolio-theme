@@ -4790,6 +4790,10 @@ width:110px;
 	color: grey;
 }
 
+skills-section1{
+	min-height:350px;
+}
+
 @media screen and (max-width: 736px) {
 	.card .title{
 		font-size:20px;
