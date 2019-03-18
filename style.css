@@ -4824,7 +4824,7 @@ width:110px;
   color: #333333;
   margin-top: 50px;
   text-align: center;
-  opacity: 0;
+  opacity: 1;
   -webkit-animation: moveIn 1s 3.1s ease forwards;
   animation: moveIn 1s 3.1s ease forwards;
 }
