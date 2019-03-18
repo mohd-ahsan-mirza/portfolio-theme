@@ -4765,6 +4765,10 @@ width:110px;
 	float: right;
 }
 
+.card .info ul{
+	list-style: none;
+}
+
 @media screen and (max-width: 736px) {
 	.card .title{
 		font-size:20px;
