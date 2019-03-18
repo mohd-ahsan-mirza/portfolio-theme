@@ -4803,6 +4803,10 @@ width:110px;
 	margin-top:50px;
 }
 
+.skills-section2{
+	float: right;
+}
+
 @media screen and (max-width: 736px) {
 	.card .title{
 		font-size:20px;
