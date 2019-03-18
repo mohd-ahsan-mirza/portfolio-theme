@@ -29,15 +29,15 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">3 Years</div>
             </div>
-            <div class="skillbar clearfix " data-percent="70%">
-			    <div class="skillbar-title" style="background: red;"><span>WordPress</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<div class="skill-bar-percent">2 Years</div>
-            </div>
             <div class="skillbar clearfix " data-percent="85%">
 			    <div class="skillbar-title" style="background: red;"><span>SQL</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">3 Years</div>
+            </div>
+            <div class="skillbar clearfix " data-percent="70%">
+			    <div class="skillbar-title" style="background: red;"><span>WordPress</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+				<div class="skill-bar-percent">2 Years</div>
             </div>
             <div class="skillbar clearfix " data-percent="75%">
 			    <div class="skillbar-title" style="background: red;"><span>MongoDB</span></div>
@@ -51,15 +51,10 @@
             </div>
         </div>
         <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
-            <div class="skillbar clearfix " data-percent="65%">
-			    <div class="skillbar-title" style="background: red;"><span>JS</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<div class="skill-bar-percent">1 Year</div>
-            </div>
             <div class="skillbar clearfix " data-percent="90%">
 			    <div class="skillbar-title" style="background: red;"><span>GIT</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<div class="skill-bar-percent">2 Years</div>
+				<div class="skill-bar-percent">2   Years</div>
             </div>
             <div class="skillbar clearfix " data-percent="80%">
 			    <div class="skillbar-title" style="background: red;"><span>Linux</span></div>
@@ -71,10 +66,10 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">6 months</div>
             </div>
-            <div class="skillbar clearfix " data-percent="50%">
-			    <div class="skillbar-title" style="background: red;"><span>UI Design</span></div>
+            <div class="skillbar clearfix " data-percent="45%">
+			    <div class="skillbar-title" style="background: red;"><span>BootStrap</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<div class="skill-bar-percent">6 months</div>
+				<div class="skill-bar-percent">3 years</div>
             </div>
         </div>
     </section>
