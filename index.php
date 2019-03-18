@@ -3,8 +3,7 @@
     </section>
     <section>
     <section class="card">
-  <h1>John Doe</h1>
-  <p class="title">CEO & Founder, Example</p>
-  <p>Harvard University</p>
-</section>
+        <h1>Ahsan Mirza</h1>
+        <p class="title">Software Engineer, Engage People Inc.</p>
+    </section>
 <?php get_footer(); ?>
