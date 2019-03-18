@@ -5,8 +5,10 @@
     <section class="card">
         <h1>ABOUT ME</h1>
         <div class="bio">Specializing in designing and supporting 
-            enterprise level software architecture that balances user effectiveness, maintainability, modularity
-            and reliability with run-time efficiency.
+            enterprise level software architecture balancing user effectiveness, maintainability, modularity
+            and reliability with run-time efficiency.<br/>Programming is much as a hobby as it is a profession and it 
+            comes naturally to me.I dedicate a substantial part of my free time to learning new technologies and doing 
+            random programming challenges using different tools and languages.
         </div>
         <div class="info">
             <ul>
