@@ -34,6 +34,11 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">3 Years</div>
             </div>
+            <div class="skillbar clearfix " data-percent="85%">
+			    <div class="skillbar-title" style="background: red;"><span>SQL</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+				<div class="skill-bar-percent">3 Years</div>
+            </div>
         </div>
         <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
             <div class="skillbar clearfix " data-percent="75%">
