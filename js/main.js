@@ -62,7 +62,7 @@
 
 	$(window).scroll(function() {
 		var scrollTop = $(this).scrollTop();
-		if(scrollTop > 200)
+		if(scrollTop > 100)
 		{
 			$('.card .bio').css({
 		  	opacity: function() {
