@@ -4763,6 +4763,8 @@ width:110px;
 
 .card .info{
 	float: right;
+	border-left-width: 10px;
+	border-left-color: black;
 }
 
 .card .info ul{

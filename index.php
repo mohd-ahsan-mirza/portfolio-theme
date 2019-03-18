@@ -4,7 +4,6 @@
     <section>
     <section class="card">
         <h1>Ahsan Mirza</h1>
-        <p class="title">Software Engineer, Engage People Inc.</p>
         <div class="bio">Specializing in designing and supporting 
             enterprise level software architecture that balances user effectiveness, maintainability, modularity
             and reliability with run-time efficiency.
