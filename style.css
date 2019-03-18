@@ -4766,7 +4766,8 @@ width:110px;
 	float: right;
 	border-left-width: 10px;
 	border-left-color: black;
-	border-left-style: dashed;
+	border-left-style: solid;
+	min-height: 300px;
 }
 
 .card .info ul{
