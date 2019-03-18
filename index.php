@@ -10,7 +10,7 @@
         </div>
         <div class="info">
             <ul>
-                <li><span class='info-key'>Experience:</span><span class='info-value'></span>3+ Years</li>
+                <li><span class='info-key'>Experience:</span><span class='info-value'>3+ Years</span></li>
             </ul>
         </div>
     </section>
