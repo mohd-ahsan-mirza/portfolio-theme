@@ -7,7 +7,7 @@
         <div class="bio">Specializing in designing and supporting 
             enterprise level software architecture balancing user effectiveness, maintainability, modularity
             and reliability with run-time efficiency.<br/><br/>Programming is much as a hobby as it is a profession and it 
-            comes naturally to me.I dedicate a substantial part of my free time to learning new technologies and doing 
+            comes naturally to me. I dedicate a substantial part of my free time to learning new technologies and doing 
             random programming challenges using different tools and languages.
         </div>
         <div class="info">
@@ -20,5 +20,12 @@
                 <li><span class='info-key'>Interests:</span><span class='info-value'>API Development,UI Design, Data Analysis, AI, Solution Architecture</span></li>
             </ul>
         </div>
+    </section>
+    <section class='skills'>
+    <div class="skillbar clearfix " data-percent="80%">
+								<div class="skillbar-title" style="background: red;"><span>PHP</span></div>
+								<div class="skillbar-bar" style="background: #F64747;"></div>
+								<div class="skill-bar-percent">2 Years</div>
+							</div>
     </section>
 <?php get_footer(); ?>
