@@ -9,7 +9,9 @@
             enterprise level software architecture that balances user effectiveness, maintainability, modularity
             and reliability with run-time efficiency.</p>
         <p class="bio">
-            Programming is much as a hobby as it is a profession and it comes naturally to me.I dedicate a substantial part of my free time to learning new technologies and doing random programming challenges using different tools and languages.
+            Programming is much as a hobby as it is a profession and it comes naturally to me. I dedicate a 
+            substantial part of my free time to learning new technologies and doing random programming challenges using 
+            different tools and languages.
         </p>
     </section>
 <?php get_footer(); ?>
