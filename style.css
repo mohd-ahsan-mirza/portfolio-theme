@@ -4779,8 +4779,10 @@ width:110px;
 
 .card .info ul{
 	list-style: none;
-	padding-top:20px;
-	padding-bottom:20px;
+}
+
+.card .info ul li{
+	margin-top:10px;
 }
 
 .card .info .info-value{
