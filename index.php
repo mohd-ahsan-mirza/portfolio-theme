@@ -5,7 +5,8 @@
     <section class="card">
         <h1>Ahsan Mirza</h1>
         <p class="title">Software Engineer, Engage People Inc.</p>
-        <p class="bio">It takes monumental improvement for us to change how we live our lives. 
-            Design is the way we access that improvement.</p>
+        <p class="bio">3+ years of experience, specializing in designing and supporting 
+            enterprise level software architecture that balances user effectiveness, maintainability, modularity
+            and reliability with run-time efficiency.</p>
     </section>
 <?php get_footer(); ?>
