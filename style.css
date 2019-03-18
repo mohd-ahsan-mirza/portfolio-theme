@@ -4735,7 +4735,8 @@ width:110px;
 	min-height:400px;
 	height:auto;
   margin: auto;
-  text-align: center;
+	text-align: center;
+	font-family: Lato !important;
 }
 
 .card .title {
