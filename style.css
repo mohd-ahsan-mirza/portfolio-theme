@@ -4791,7 +4791,7 @@ width:110px;
 }
 
 .skills-section1{
-	min-height:350px;
+	min-height:350px !important;
 }
 
 @media screen and (max-width: 736px) {
