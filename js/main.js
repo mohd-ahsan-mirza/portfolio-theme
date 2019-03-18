@@ -61,9 +61,8 @@
 	});
 
 	$(window).scroll(function() {
-		console.log("coming in here");
 		var scrollTop = $(this).scrollTop();
-	  
+		console.log(scrollTop);
 		$('.card .bio').css({
 		  opacity: function() {
 			var elementHeight = $(this).height();
