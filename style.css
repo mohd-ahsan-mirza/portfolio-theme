@@ -4762,6 +4762,11 @@ width:110px;
 	min-height: inherit;
 }
 
+.card .bio{
+	margin-left: 20%;
+	margin-right: 0;
+}
+
 .card .info{
 	float: right;
 	border-left-width: 10px;
