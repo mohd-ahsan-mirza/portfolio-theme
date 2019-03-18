@@ -1,6 +1,6 @@
 
 
-	$(function() {
+$(function() {
 
 	$(".input-submit").click(function(event){
 
@@ -66,4 +66,4 @@
 		},6000);
 	});
 	
-	});
+});
