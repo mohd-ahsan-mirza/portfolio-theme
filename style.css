@@ -4772,7 +4772,6 @@ width:110px;
 	border-left-width: 10px;
 	border-left-color: black;
 	border-left-style: solid;
-	border-radius: 10px 0 0 10px;
 	min-height: 300px;
 	margin-left: 0;
 	margin-right: 20%;
@@ -4805,6 +4804,13 @@ width:110px;
 
 	.card .info{
 		float: unset;
+		border-left-width: unset;
+		border-left-color: unset;
+		border-left-style: unset;
+		border-top-width: 10px;
+		border-top-color: black;
+		border-top-style: solid;
+		
 	}
 	
 
