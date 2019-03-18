@@ -4793,7 +4793,10 @@ width:110px;
 .skills{
 	min-height:350px !important;
 	background-color: whitesmoke;
-	display:block;
+}
+
+.skills h1{
+	margin-top:40px;
 }
 
 .skills-section1{
