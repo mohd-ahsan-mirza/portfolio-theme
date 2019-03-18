@@ -4739,6 +4739,10 @@ width:110px;
 	text-align: center;
 }
 
+.card p{
+	margin:0;
+}
+
 .card .title {
   color: grey;
   font-size: 22px;
