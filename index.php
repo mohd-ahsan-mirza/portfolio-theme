@@ -44,10 +44,15 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">2 Years</div>
             </div>
+            <div class="skillbar clearfix " data-percent="45%">
+			    <div class="skillbar-title" style="background: red;"><span>Python</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+				<div class="skill-bar-percent">2 Years</div>
+            </div>
         </div>
         <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
-            <div class="skillbar clearfix " data-percent="45%">
-			    <div class="skillbar-title" style="background: red;"><span>Laravel</span></div>
+            <div class="skillbar clearfix " data-percent="65%">
+			    <div class="skillbar-title" style="background: red;"><span>JS(Angular, jQuery, React)</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<div class="skill-bar-percent">1 Year</div>
             </div>
