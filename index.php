@@ -7,10 +7,11 @@
         <p class="title">Software Engineer, Engage People Inc.</p>
         <p class="bio">Specializing in designing and supporting 
             enterprise level software architecture that balances user effectiveness, maintainability, modularity
-            and reliability with run-time efficiency.</p>
+            and reliability with run-time efficiency.
+        </p>
         <p class="info">
             <ul>
-                <li><span class='info-key'>Experience:<span class='info-value'></span>3+ Years</li>
+                <li><span class='info-key'>Experience:</span><span class='info-value'></span>3+ Years</li>
             </ul>
         </p>
     </section>
