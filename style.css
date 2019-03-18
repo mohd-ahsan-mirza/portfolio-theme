@@ -4786,7 +4786,6 @@ width:110px;
 		font-size:20px;
 	}
 	.card .bio {
-		font-size: 15px;
 		margin-top: 25px;
 	}
 
@@ -4796,6 +4795,7 @@ width:110px;
 		max-width:80%;
 		min-width:80%;
 		width:80%;
+		font-size: 15px;
 	}
 
 	.card .bio{
