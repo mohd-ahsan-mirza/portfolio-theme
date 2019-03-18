@@ -4798,13 +4798,9 @@ width:110px;
 		min-width:80%;
 		width:80%;
 	}
-
-	.card .bio{
-		max-height: 100px;
-	}
-
 	.card .info{
 		float: unset;
+		min-height: 25px;
 	}
 	
 
