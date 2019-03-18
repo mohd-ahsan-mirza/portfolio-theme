@@ -4816,8 +4816,11 @@ width:110px;
 
 	.card .info ul{
 		margin-top:10px;
+		padding:0;
 	}
 
-	
+	.card .info ul li{
+		padding:0;
+	}
 
 }
