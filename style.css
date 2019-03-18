@@ -4804,6 +4804,8 @@ width:110px;
 .skills-section1, .skills-section2{
 	margin-top:50px;
 	display: block;
+	height:100%;
+	width:100%;
 }
 
 @media screen and (max-width: 736px) {
