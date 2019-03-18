@@ -1,5 +1,7 @@
 (function($) {
 
+	$(function() {
+
 	$(".input-submit").click(function(event){
 
 		event.preventDefault();
@@ -62,6 +64,8 @@
 		$(this).find('.skillbar-bar').animate({
 			width:$(this).attr('data-percent')
 		},6000);
+	});
+	
 	});
 
 })(jQuery);
