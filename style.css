@@ -4747,4 +4747,12 @@ width:110px;
 	margin-right:20%;
 	margin-top:50px;
 	font-size: 18px;
+	-webkit-transition-property: height; /* Safari */
+  -webkit-transition-duration: 2s; /* Safari */
+  transition-property: height;
+  transition-duration: 2s;
+}
+
+card .bio:focus {
+	height:100px;
 }
