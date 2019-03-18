@@ -46,6 +46,11 @@
             </div>
         </div>
         <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
+            <div class="skillbar clearfix " data-percent="70s%">
+			    <div class="skillbar-title" style="background: red;"><span>JS</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+				<div class="skill-bar-percent">2 Years</div>
+            </div>
             <div class="skillbar clearfix " data-percent="90%">
 			    <div class="skillbar-title" style="background: red;"><span>GIT</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
