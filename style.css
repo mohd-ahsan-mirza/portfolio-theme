@@ -4791,6 +4791,7 @@
 }
 
 .skills{
+	min-height:450px;
 	background-color: whitesmoke;
 	height:100%;
 	width:100%;
