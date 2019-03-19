@@ -35,7 +35,7 @@
 				<!--<div class="skill-bar-percent">3 Years</div>-->
             </div>
             <div class="skillbar clearfix " data-percent="85%">
-			    <div class="skillbar-title" style="background: red;"><span>Error and Data Analysis</span></div>
+			    <div class="skillbar-title" style="background: red;"><span>Error & Data Analysis</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
             <div class="skillbar clearfix " data-percent="70%">
