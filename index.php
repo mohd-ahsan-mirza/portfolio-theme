@@ -46,6 +46,10 @@
 			    <div class="skillbar-title" style="background: red;"><span>DB Design</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
+            <div class="skillbar clearfix " data-percent="35%">
+			    <div class="skillbar-title" style="background: red;"><span>Virtualization</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+            </div>
         </div>
         <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
             <div class="skillbar clearfix " data-percent="65%">
@@ -66,6 +70,10 @@
             </div>
             <div class="skillbar clearfix " data-percent="45%">
 			    <div class="skillbar-title" style="background: red;"><span>QA</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+            </div>
+            <div class="skillbar clearfix " data-percent="70%">
+			    <div class="skillbar-title" style="background: red;"><span>Scripting/Tooling</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
         </div>
