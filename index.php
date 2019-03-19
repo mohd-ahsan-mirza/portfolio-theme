@@ -33,7 +33,7 @@
 			    <div class="skillbar-title" style="background: red;"><span>Error Analysis</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
-            <div class="skillbar clearfix " data-percent="85%">
+            <div class="skillbar clearfix " data-percent="70%">
 			    <div class="skillbar-title" style="background: red;"><span>DB Design</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
@@ -43,8 +43,12 @@
 			    <div class="skillbar-title" style="background: red;"><span>UI Design</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
-            <div class="skillbar clearfix " data-percent="70%">
+            <div class="skillbar clearfix " data-percent="60%">
 			    <div class="skillbar-title" style="background: red;"><span>WP Development</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+            </div>
+            <div class="skillbar clearfix " data-percent="80%">
+			    <div class="skillbar-title" style="background: red;"><span>Version Control</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
         </div>
