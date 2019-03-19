@@ -34,7 +34,7 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
             <div class="skillbar clearfix " data-percent="65%">
-			    <div class="skillbar-title" style="background: red;"><span>Error Analysis</span></div>
+			    <div class="skillbar-title" style="background: red;"><span>Data Analysis</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
             <div class="skillbar clearfix " data-percent="70%">
