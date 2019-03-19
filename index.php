@@ -68,7 +68,7 @@
 			    <div class="skillbar-title" style="background: red;"><span>DevOps</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
-            <div class="skillbar clearfix " data-percent="45%">
+            <div class="skillbar clearfix " data-percent="55%">
 			    <div class="skillbar-title" style="background: red;"><span>QA</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
