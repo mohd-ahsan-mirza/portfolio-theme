@@ -29,6 +29,11 @@
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
 				<!--<div class="skill-bar-percent">3 Years</div>-->
             </div>
+            <div class="skillbar clearfix " data-percent="90%">
+			    <div class="skillbar-title" style="background: red;"><span>Architecture</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+				<!--<div class="skill-bar-percent">3 Years</div>-->
+            </div>
             <div class="skillbar clearfix " data-percent="85%">
 			    <div class="skillbar-title" style="background: red;"><span>Error Analysis</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
@@ -57,6 +62,10 @@
             </div>
             <div class="skillbar clearfix " data-percent="50%">
 			    <div class="skillbar-title" style="background: red;"><span>DevOps</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+            </div>
+            <div class="skillbar clearfix " data-percent="45%">
+			    <div class="skillbar-title" style="background: red;"><span>QA</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
         </div>
