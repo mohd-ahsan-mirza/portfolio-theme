@@ -4791,7 +4791,7 @@
 }
 
 .skills{
-	height:auto;
+	min-height:450px;
 	background-color: whitesmoke;
 	height:100%;
 	width:100%;
@@ -4807,6 +4807,10 @@
 }
 
 @media screen and (max-width: 736px) {
+
+	.skills{
+		min-height:700px;
+	}
 
 	.skills-section2{
 		margin-top:0;
