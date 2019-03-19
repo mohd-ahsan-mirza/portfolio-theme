@@ -55,6 +55,10 @@
 			    <div class="skillbar-title" style="background: red;"><span>Version Control</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
+            <div class="skillbar clearfix " data-percent="50%">
+			    <div class="skillbar-title" style="background: red;"><span>DevOps</span></div>
+			    <div class="skillbar-bar" style="background: #F64747;"></div>
+            </div>
         </div>
     </section>
 <?php get_footer(); ?>
