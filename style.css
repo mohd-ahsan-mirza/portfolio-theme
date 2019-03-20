@@ -4815,11 +4815,6 @@
 	margin-right:45%;
 }
 
-.skills-detail-link-section a{
-	cursor: pointer;
-	animation: rotation 2s infinite linear;
-}
-
 @keyframes rotation {
 	from {
 			transform: rotate(0deg);
@@ -4827,6 +4822,11 @@
 	to {
 			transform: rotate(359deg);
 	}
+}
+
+.skills-detail-link-section a{
+	cursor: pointer;
+	animation: rotation 2s infinite linear;
 }
 
 .skills-section1, .skills-section2{
