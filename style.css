@@ -4876,3 +4876,10 @@
 	}
 
 }
+
+@media screen and (max-width: 1000px) {
+	.skills-detail-link-section{
+		margin-left:40%;
+		margin-right:40%;
+	}
+}
