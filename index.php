@@ -80,7 +80,7 @@
             </div>
         </div>
         <div class="skills-detail-link-section">
-            <i class="fab fa-react fa-5x"></i>
+            <i class="fab fa-react fa-7x"></i>
         </div>
     </section>
 <?php get_footer(); ?>
