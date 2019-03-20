@@ -79,8 +79,8 @@
                 </div>
             </div>
         </div>
-        <div class="skills-detail-link-section">
-            <i class="fab fa-react fa-7x center-block"></i>
+        <div class="skills-detail-link-section center-block">
+            <i class="fab fa-react fa-7x"></i>
         </div>
     </section>
 <?php get_footer(); ?>
