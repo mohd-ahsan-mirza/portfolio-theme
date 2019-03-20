@@ -81,7 +81,6 @@
         </div>
         <div class="skills-detail-link-section">
             <a href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
-            <span class="font-weight-bold text-center">Click Above for a more in depth look</span>
         </div>
         <div>
         </div>
