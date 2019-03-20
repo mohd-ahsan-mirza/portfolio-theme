@@ -4818,8 +4818,8 @@
 .skills-detail-link-section a{
 	cursor: pointer;
 }
-.skills-detail-link-section{
-	margin-top:5px;
+.skills-detail-link-section span{
+	margin-top:10px;
 }
 
 .skills-section1, .skills-section2{
