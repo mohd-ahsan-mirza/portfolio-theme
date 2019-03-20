@@ -79,7 +79,7 @@
                 </div>
             </div>
         </div>
-        <div>
+        <div class="skills-detail-link-section">
             <i class="fab fa-react"></i>
         </div>
     </section>
