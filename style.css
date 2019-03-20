@@ -4813,12 +4813,24 @@
 	height:10%;
 	margin-left:45%;
 	margin-right:45%;
+	cursor: pointer;
+	-webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+	from {
+			-webkit-transform: rotate(0deg);
+	}
+	to {
+			-webkit-transform: rotate(359deg);
+	}
 }
 
 .skills-section1, .skills-section2{
 	margin-top:35px;
 	display: block;
 }
+
 
 @media screen and (max-width: 1000px) {
 
