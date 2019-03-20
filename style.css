@@ -4813,6 +4813,9 @@
 	height:10%;
 	margin-left:45%;
 	margin-right:45%;
+}
+
+.skills-detail-link-section a{
 	cursor: pointer;
 	-webkit-animation: rotation 2s infinite linear;
 }
