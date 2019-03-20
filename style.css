@@ -4801,6 +4801,11 @@
 	padding:20px;
 }
 
+.skills-section{
+	width:100%;
+	height:80%;
+}
+
 .skills-section1, .skills-section2{
 	margin-top:35px;
 	display: block;
