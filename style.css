@@ -4817,9 +4817,14 @@
 
 .skills-detail-link-section a{
 	cursor: pointer;
+	min-width:100%;
+	max-width:100%;
+	min-width:100%;
 }
 .skills-detail-link-section span{
-	margin-top:50px;
+	min-width:100%;
+	max-width:100%;
+	min-width:100%;
 }
 
 .skills-section1, .skills-section2{
