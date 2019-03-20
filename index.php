@@ -23,6 +23,7 @@
     </section>
     <section class='skills'>
         <h1 class='text-center'>SKILLS</h1>
+        <div class="skills-section">
         <div class='skills-section1 col-lg-6 col-md-6 col-sm-12'>
             <div class="skillbar clearfix " data-percent="75%">
 			    <div class="skillbar-title" style="background: red;"><span>API Development</span></div>
@@ -76,6 +77,7 @@
 			    <div class="skillbar-title" style="background: red;"><span>Scripting/Tooling</span></div>
 			    <div class="skillbar-bar" style="background: #F64747;"></div>
             </div>
+        </div>
         </div>
     </section>
 <?php get_footer(); ?>
