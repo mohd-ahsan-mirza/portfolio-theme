@@ -4805,7 +4805,7 @@
 
 .skills-section{
 	width:100%;
-	height:65%;
+	height:60%;
 }
 
 .skills-detail-link-section{
@@ -4822,6 +4822,10 @@
 
 	.skills{
 		min-height:1000px;
+	}
+
+	.skills-section{
+		height:65%;
 	}
 
 	.skills-section2{
