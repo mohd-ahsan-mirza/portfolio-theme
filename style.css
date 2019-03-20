@@ -4820,7 +4820,7 @@
 	display: block;
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 1000px) {
 
 	.skills{
 		min-height:1000px;
