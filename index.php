@@ -83,7 +83,7 @@
             <a href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
         </div>
         <div>
-            <span font-weight-bold text-center>Click Above for a more in depth look</span>
+            <span class="font-weight-bold text-center">Click Above for a more in depth look</span>
         </div>
     </section>
 <?php get_footer(); ?>
