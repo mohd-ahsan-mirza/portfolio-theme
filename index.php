@@ -24,60 +24,63 @@
     <section class='skills'>
         <h1 class='text-center'>SKILLS</h1>
         <div class="skills-section">
-        <div class='skills-section1 col-lg-6 col-md-6 col-sm-12'>
-            <div class="skillbar clearfix " data-percent="75%">
-			    <div class="skillbar-title" style="background: red;"><span>API Development</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<!--<div class="skill-bar-percent">3 Years</div>-->
+            <div class='skills-section1 col-lg-6 col-md-6 col-sm-12'>
+                <div class="skillbar clearfix " data-percent="75%">
+                    <div class="skillbar-title" style="background: red;"><span>API Development</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                    <!--<div class="skill-bar-percent">3 Years</div>-->
+                </div>
+                <div class="skillbar clearfix " data-percent="90%">
+                    <div class="skillbar-title" style="background: red;"><span>Architecture</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                    <!--<div class="skill-bar-percent">3 Years</div>-->
+                </div>
+                <div class="skillbar clearfix " data-percent="85%">
+                    <div class="skillbar-title" style="background: red;"><span>Error Analysis</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="65%">
+                    <div class="skillbar-title" style="background: red;"><span>Data Analysis</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="70%">
+                    <div class="skillbar-title" style="background: red;"><span>DB Design</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="35%">
+                    <div class="skillbar-title" style="background: red;"><span>Virtualization</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
             </div>
-            <div class="skillbar clearfix " data-percent="90%">
-			    <div class="skillbar-title" style="background: red;"><span>Architecture</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-				<!--<div class="skill-bar-percent">3 Years</div>-->
-            </div>
-            <div class="skillbar clearfix " data-percent="85%">
-			    <div class="skillbar-title" style="background: red;"><span>Error Analysis</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="65%">
-			    <div class="skillbar-title" style="background: red;"><span>Data Analysis</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="70%">
-			    <div class="skillbar-title" style="background: red;"><span>DB Design</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="35%">
-			    <div class="skillbar-title" style="background: red;"><span>Virtualization</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
+            <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
+                <div class="skillbar clearfix " data-percent="65%">
+                    <div class="skillbar-title" style="background: red;"><span>UI Design</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="60%">
+                    <div class="skillbar-title" style="background: red;"><span>WP Development</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="80%">
+                    <div class="skillbar-title" style="background: red;"><span>Version Control</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="50%">
+                    <div class="skillbar-title" style="background: red;"><span>DevOps</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="55%">
+                    <div class="skillbar-title" style="background: red;"><span>QA</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
+                <div class="skillbar clearfix " data-percent="70%">
+                    <div class="skillbar-title" style="background: red;"><span>Scripting/Tooling</span></div>
+                    <div class="skillbar-bar" style="background: #F64747;"></div>
+                </div>
             </div>
         </div>
-        <div class='skills-section2 col-lg-6 col-md-6 col-sm-12'>
-            <div class="skillbar clearfix " data-percent="65%">
-			    <div class="skillbar-title" style="background: red;"><span>UI Design</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="60%">
-			    <div class="skillbar-title" style="background: red;"><span>WP Development</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="80%">
-			    <div class="skillbar-title" style="background: red;"><span>Version Control</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="50%">
-			    <div class="skillbar-title" style="background: red;"><span>DevOps</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="55%">
-			    <div class="skillbar-title" style="background: red;"><span>QA</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-            <div class="skillbar clearfix " data-percent="70%">
-			    <div class="skillbar-title" style="background: red;"><span>Scripting/Tooling</span></div>
-			    <div class="skillbar-bar" style="background: #F64747;"></div>
-            </div>
-        </div>
+        <div>
+            <i class="fab fa-react"></i>
         </div>
     </section>
 <?php get_footer(); ?>
