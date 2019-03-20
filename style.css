@@ -4817,7 +4817,9 @@
 
 .skills-detail-link-section a{
 	cursor: pointer;
-	width:100%;
+}
+.skills-detail-link-section{
+	margin-top:5px;
 }
 
 .skills-section1, .skills-section2{
