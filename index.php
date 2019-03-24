@@ -78,8 +78,8 @@
             </div>
         </div>
         <div class="skills-detail-link-section">
-            <div class="col-sm-4 text-center">
-            <a class="center-block img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
+            <div class="col-lg-4 text-center">
+            <a class="img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
             </div>
             <div class="text-center">CLICK ABOVE</div>
         </div>
