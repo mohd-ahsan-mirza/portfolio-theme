@@ -4810,6 +4810,8 @@
 
 .skills-detail-link-section{
 	width:100%;
+	min-width:100%;
+	max-width:100%;
 	height:15%;
 	margin-left:45%;
 	margin-right:45%;
