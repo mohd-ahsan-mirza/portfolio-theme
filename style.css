@@ -4834,6 +4834,10 @@
 	width: 100%;
 }
 
+.cover-image{
+	max-height: 240px !important;
+}
+
 
 @media screen and (max-width: 1000px) {
 
