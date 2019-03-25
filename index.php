@@ -34,7 +34,7 @@
                 <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer</span></li>
                 <li><span class='info-key'>Company:</span><span class='info-value'>Engage People Inc.</span></li>
                 <li><span class='info-key'>Location:</span><span class='info-value'>Toronto</span></li>
-                <li><span class='info-key'>Current Interests:</span><span class='info-value'>UI Design, Data Analysis, AI, Solution Architecture</span></li>
+                <li><span class='info-key'>Current Interests:</span><span class='info-value'>API Development, UI Design, Data Analysis, AI, Solution Architecture</span></li>
             </ul>
         </div>
     </section>
@@ -64,7 +64,7 @@
                     <div class="skillbar-title" style="background: red;"><span>DB Design</span></div>
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
-                <div class="skillbar clearfix " data-percent="35%">
+                <div class="skillbar clearfix " data-percent="45%">
                     <div class="skillbar-title" style="background: red;"><span>Virtualization</span></div>
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
