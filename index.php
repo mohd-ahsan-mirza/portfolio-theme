@@ -86,6 +86,6 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                 </div>
         </div>
-        <div>CLICK ABOVE</div>
+        <div class="text-center">CLICK ABOVE</div>
     </section>
 <?php get_footer(); ?>
