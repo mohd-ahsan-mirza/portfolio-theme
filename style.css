@@ -4838,6 +4838,10 @@
 	max-height: 200px !important;
 }
 
+.projects{
+	min-height:250px;
+}
+
 
 @media screen and (max-width: 1000px) {
 

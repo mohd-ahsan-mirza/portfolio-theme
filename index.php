@@ -107,4 +107,7 @@
         </div>
         <div class="text-center">CLICK ABOVE</div>
     </section>
+    <section class="projects">
+    <h1 class='text-center'>SOME PROJECTS I AM PROUD OF</h1>
+    </section>
 <?php get_footer(); ?>
