@@ -78,7 +78,7 @@
             </div>
         </div>
         <div class="skills-detail-link-section">
-            <div>
+            <div style="width:100%;">
                 <div class="col-lg-4 col-md-4 col-sm-4">
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4">
