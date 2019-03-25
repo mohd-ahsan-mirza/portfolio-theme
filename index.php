@@ -11,12 +11,17 @@
             </span>
             <ul class="icons">
 				<li>
-                        <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin fa-1x">
+                        <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin">
                             <span class="label">LinkedIn</span>
                         </a>
                 </li>
 				<li>
-                    <a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github fa-1x">
+                    <a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github">
+                        <span class="label">GitHub</span>
+                    </a>
+                </li>
+                <li>
+                    <a href='https://ahsanmirza.com/blogs' class="icon round fa-wordpress-simple">
                         <span class="label">GitHub</span>
                     </a>
                 </li>
