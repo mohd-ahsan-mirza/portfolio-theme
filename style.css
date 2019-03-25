@@ -4842,6 +4842,10 @@
 	min-height:250px;
 }
 
+.projects a{
+	color: inherit;
+}
+
 
 @media screen and (max-width: 1000px) {
 

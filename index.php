@@ -110,11 +110,12 @@
     <section class="projects">
         <h1 class='text-center'>PROJECTS</h1>
         <div class="col-lg-4 col-md-6 col-sm-12">
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <a class="img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                </div>
+            <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/git-automator'><i class="fab fa-python fa-7x"></i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <a class="img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/list-manipulator/'><i class="fab fa-python fa-7x"></i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+        </div>
     </section>
 <?php get_footer(); ?>
