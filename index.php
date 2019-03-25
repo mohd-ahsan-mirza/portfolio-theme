@@ -11,12 +11,12 @@
             </span>
             <ul class="icons">
 				<li>
-                        <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin fa-5x">
+                        <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin fa-3x">
                             <span class="label">LinkedIn</span>
                         </a>
                 </li>
 				<li>
-                    <a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github fa-5x">
+                    <a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github fa-3x">
                         <span class="label">GitHub</span>
                     </a>
                 </li>
