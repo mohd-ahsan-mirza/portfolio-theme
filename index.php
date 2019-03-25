@@ -78,7 +78,6 @@
             </div>
         </div>
         <div class="skills-detail-link-section">
-            <div style="width:100%;">
                 <div class="col-lg-4 col-md-4 col-sm-4">
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4">
@@ -86,8 +85,6 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4">
                 </div>
-            </div>
-            <div class="text-center">CLICK ABOVE</div>
         <div>
         </div>
     </section>
