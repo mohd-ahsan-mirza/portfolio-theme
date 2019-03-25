@@ -9,20 +9,18 @@
             comes naturally to me. I dedicate a substantial part of my free time to learning new technologies and doing 
             random programming challenges.
             </span>
-            <div class="col-lg-4 col-md-4 col-sm-4"></div>
-            <ul class="icons col-lg-4 col-md-4 col-sm-4">
-				<li class="col-lg-6 col-md-6 col-sm-6">
+            <ul class="icons">
+				<li>
                         <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin">
                             <span class="label">LinkedIn</span>
                         </a>
                 </li>
-				<li class="col-lg-6 col-md-6 col-sm-6">
+				<li>
                     <a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github">
                         <span class="label">GitHub</span>
                     </a>
                 </li>
 			</ul>
-            <div class="col-lg-4 col-md-4 col-sm-4"></div>
         </div>
         <div class="info">
             <ul>
