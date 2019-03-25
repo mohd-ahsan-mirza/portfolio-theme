@@ -87,7 +87,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                 </div>
             </div>
-            <div class="text-center" style="width:100%;display:block;">CLICK ABOVE</div>
+            <div class="text-center">CLICK ABOVE</div>
         <div>
         </div>
     </section>
