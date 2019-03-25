@@ -11,10 +11,12 @@
             </span>
             <ul class="icons">
 				<li class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="col-lg-3 col-md-3 col-sm-3"></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
+                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
+                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
+                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
+                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
+                    <div class="col-lg-2 col-md-2 col-sm-2">
                         <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin">
                             <span class="label">LinkedIn</span>
                         </a>
