@@ -7,7 +7,7 @@
             enterprise level software architecture balancing user effectiveness, maintainability, modularity
             and reliability with run-time efficiency.<br/><br/>Programming is much as a hobby as it is a profession and it 
             comes naturally to me. I dedicate a substantial part of my free time to learning new technologies and doing 
-            random programming challenges using different tools and languages.
+            random programming challenges.
             </span>
             <div class="col-lg-4 col-md-4 col-sm-4"></div>
             <ul class="icons col-lg-4 col-md-4 col-sm-4">
