@@ -108,6 +108,13 @@
         <div class="text-center">CLICK ABOVE</div>
     </section>
     <section class="projects">
-    <h1 class='text-center'>PROJECTS</h1>
+        <h1 class='text-center'>PROJECTS</h1>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a class="img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                </div>
     </section>
 <?php get_footer(); ?>
