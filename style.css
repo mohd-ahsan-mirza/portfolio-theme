@@ -4839,7 +4839,7 @@
 }
 
 .projects{
-	min-height:150px;
+	max-height:300px;
 	height:100%;
 	width:100%;
 }
