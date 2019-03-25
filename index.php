@@ -32,7 +32,7 @@
                 <li><span class='info-key'>Name:</span><span class='info-value'>Ahsan Mirza</span></li>
                 <li><span class='info-key'>Experience:</span><span class='info-value'>3+ Years</span></li>
                 <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer</span></li>
-                <li><span class='info-key'>Company:</span><span class='info-value'>Engage People Inc.</span></li>
+                <li><span class='info-key'>Current Company:</span><span class='info-value'>Engage People Inc.</span></li>
                 <li><span class='info-key'>Location:</span><span class='info-value'>Toronto</span></li>
                 <li><span class='info-key'>Current Interests:</span><span class='info-value'>API Development, UI Design, Data Analysis, AI, Solution Architecture</span></li>
             </ul>
@@ -113,7 +113,7 @@
             <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/git-automator'><i class="fab fa-python fa-5x"></i></a>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
-            <a class="img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/list-manipulator/'><i class="fab fa-react fa-5x"></i></a>
+            <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/list-manipulator'><i class="fab fa-react fa-5x"></i></a>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
         </div>
