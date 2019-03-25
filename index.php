@@ -108,6 +108,6 @@
         <div class="text-center">CLICK ABOVE</div>
     </section>
     <section class="projects">
-    <h1 class='text-center'>SOME PROJECTS</h1>
+    <h1 class='text-center'>PROJECTS</h1>
     </section>
 <?php get_footer(); ?>
