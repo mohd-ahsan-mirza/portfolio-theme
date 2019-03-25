@@ -11,7 +11,7 @@
             </span>
             <ul class="icons">
 				<li class="col-lg-6 col-md-6 col-sm-6">
-                    <div style="width:100%;min-width:100%;float:right;">
+                    <div style="width:100%;min-width:100%;max-width:100%;align:right;">
                         <a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin">
                             <span class="label">LinkedIn</span>
                         </a>
