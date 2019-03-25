@@ -21,7 +21,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href='https://ahsanmirza.com/blogs' class="icon round fa-wordpress-simple">
+                    <a href='https://ahsanmirza.com/blogs' class="icon round fa-wordpress">
                         <span class="label">GitHub</span>
                     </a>
                 </li>
