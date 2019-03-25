@@ -2,11 +2,17 @@
     <section>
     <section class="card">
         <h1>ABOUT ME</h1>
-        <div class="bio">Specializing in designing and supporting 
+        <div class="bio">
+            <span>Specializing in designing and supporting 
             enterprise level software architecture balancing user effectiveness, maintainability, modularity
             and reliability with run-time efficiency.<br/><br/>Programming is much as a hobby as it is a profession and it 
             comes naturally to me. I dedicate a substantial part of my free time to learning new technologies and doing 
             random programming challenges using different tools and languages.
+            </span>
+            <ul class="icons">
+						<li><a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github"><span class="label">GitHub</span></a></li>
+			</ul>
         </div>
         <div class="info">
             <ul>
