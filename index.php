@@ -10,7 +10,7 @@
             random programming challenges using different tools and languages.
             </span>
             <ul class="icons">
-				<li class="col-lg-6 col-md-6 col-sm-6 float-right"><a href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin"><span class="label">LinkedIn</span></a></li>
+				<li class="col-lg-6 col-md-6 col-sm-6"><a class="align-right" href='https://ca.linkedin.com/in/muhammad-ahsan-mirza-460b6378' class="icon round fa-linkedin"><span class="label">LinkedIn</span></a></li>
 				<li class="col-lg-6 col-md-6 col-sm-6"><a href='https://github.com/mohd-ahsan-mirza' class="icon round fa-github"><span class="label">GitHub</span></a></li>
 			</ul>
         </div>
