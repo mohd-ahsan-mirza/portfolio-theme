@@ -122,7 +122,7 @@
         <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="item active">
-                    <p class="d-block w-80">
+                    <p class="d-block w-75">
                     As an Account Director, I rely heavily on our development teams support on one of our largest 
                     nationwide accounts. Thankfully I have Ahsan’s support and expertise at hand. Ahsan is a 
                     dedicated Software Engineer that I have the pleasure of working with for over 1.5 years. 
@@ -136,7 +136,7 @@
                     </p>
                 </div>
                 <div class="item">
-                    <p class="d-block w-80">
+                    <p class="d-block w-75">
                     Ahsan is a developer with a ton of potential and a keen eye for detail. 
                     He has continued to surpass my expectations by tackling all assigned tasks not just from a 
                     technical perspective but also identifying future technical and user problems to deliver quality work. 
@@ -145,7 +145,7 @@
                     </p>
                 </div>      
             </div>
-            <ol class="carousel-indicators">
+            <!--<ol class="carousel-indicators">
                 <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselIndicators" data-slide-to="1"></li>
             </ol>
@@ -156,7 +156,7 @@
             <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-            </a>
+            </a>-->
         </div>
     </section>
 <?php get_footer(); ?>
