@@ -120,10 +120,6 @@
     </section>
     <section class="recommendations">
         <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselIndicators" data-slide-to="1"></li>
-            </ol>
             <div class="carousel-inner">
                 <div class="item active">
                     <p class="d-block w-80">
@@ -147,16 +143,20 @@
                     His communication with the client has been fantastic and recognized and I could not be more pleased to 
                     have someone take lead on major projects.
                     </p>
-                </div>
-                <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
+                </div>      
+            </div>
+            <ol class="carousel-indicators">
+                <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselIndicators" data-slide-to="1"></li>
+            </ol>
+            <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-            </a>      
-            </div>
+            </a>
         </div>
     </section>
 <?php get_footer(); ?>
