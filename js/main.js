@@ -65,5 +65,7 @@ $(function() {
 			width:$(this).attr('data-percent')
 		},6000);
 	});
+
+	$('.carousel').carousel();
 	
 });
