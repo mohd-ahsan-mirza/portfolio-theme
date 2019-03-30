@@ -121,14 +121,14 @@
     <section class="recommendations">
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-100" alt="First slide">
+                <div class="carousel-item active d-block w-100 h-100">
+                    FIRST SLIDE
                 </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" alt="Second slide">
+                <div class="carousel-item d-block d-block w-100 h-100">
+                    SECOND SLIDE
                  </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" alt="Third slide">
+                <div class="carousel-item d-block w-100 h-100">
+                    THIRD SLIDE
                 </div>
             </div>
         </div>
