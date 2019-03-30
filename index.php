@@ -124,19 +124,24 @@
             <div class="carousel-inner">
                 <div class="item active">
                     <p class="text-left">
-                    Our clients at times 
-                    have acknowledged that he knows the solution better then they do and always feel confident 
-                    knowing that they have Ahsan on their side.<br/>
-                    <span class="text-right">John Medeiros, Account Director at Engage People Inc. - 2018</span>
+                        <span class="font-weight-bold">"</span>
+                        Our clients at times 
+                        have acknowledged that he knows the solution better then they do and always feel confident 
+                        knowing that they have Ahsan on their side.
+                        <span class="font-weight-bold">"</span>
+                        <br/>
+                        <span class="text-right">John Medeiros, Account Director at Engage People Inc. - 2018</span>
                     </p>
                 </div>
                 <div class="item">
                     <p class="text-left">
-                    Ahsan is a developer with a ton of potential and a keen eye for detail. 
-                    He has continued to surpass my expectations by tackling all assigned tasks not just from a 
-                    technical perspective but also identifying future technical and user problems to deliver quality work. 
-                    <br/>
-                    <span class="text-right">Raahul Biswas, IT Product Manager at Engage People Inc. - 2018</span>
+                        <span class="font-weight-bold">"</span>
+                        Ahsan is a developer with a ton of potential and a keen eye for detail. 
+                        He has continued to surpass my expectations by tackling all assigned tasks not just from a 
+                        technical perspective but also identifying future technical and user problems to deliver quality work. 
+                        <span class="font-weight-bold">"</span>
+                        <br/>
+                        <span class="text-right">Raahul Biswas, IT Product Manager at Engage People Inc. - 2018</span>
                     </p>
                 </div>      
             </div>
