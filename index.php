@@ -134,8 +134,8 @@
                     alternatives to their solution requests, saving our client time and money. Our clients at times 
                     have acknowledged that he knows the solution better then they do and always feel confident 
                     knowing that they have Ahsan on their side.
-                    </p>
                     <span class="text-right">John Medeiros, Account Director at Engage People Inc. - 2018</span>
+                    </p>
                 </div>
                 <div class="item">
                     <p class="text-left">
@@ -144,8 +144,8 @@
                     technical perspective but also identifying future technical and user problems to deliver quality work. 
                     His communication with the client has been fantastic and recognized and I could not be more pleased to 
                     have someone take lead on major projects.
-                    </p>
                     <span class="text-right">Raahul Biswas, IT Product Manager at Engage People Inc. - 2018</span>
+                    </p>
                 </div>      
             </div>
             <ol class="carousel-indicators">
