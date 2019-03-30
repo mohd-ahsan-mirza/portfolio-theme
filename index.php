@@ -123,7 +123,7 @@
         <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="item active">
-                    <p class="text-left font-weight-light">
+                    <p class="text-left font-italic">
                         "
                         Our clients at times 
                         have acknowledged that he knows the solution better then they do and always feel confident 
@@ -134,7 +134,7 @@
                     </p>
                 </div>
                 <div class="item">
-                    <p class="text-left font-weight-light">
+                    <p class="text-left font-italic">
                         "
                         Ahsan is a developer with a ton of potential and a keen eye for detail. 
                         He has continued to surpass my expectations by tackling all assigned tasks not just from a 
