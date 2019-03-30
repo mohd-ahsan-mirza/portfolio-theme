@@ -119,7 +119,7 @@
         </div>
     </section>
     <section class="recommendations">
-        <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
+        <div id="carousel-recommendations" class="carousel slide h-75" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="item active">
                     <p class="text-left">
