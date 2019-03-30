@@ -4857,6 +4857,10 @@
 	color: black;
 }
 
+.recommendations h1{
+	margin-top:20px;
+}
+
 .recommendations p{
 	font-size: 20px;
 	width:80%;
