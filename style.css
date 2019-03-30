@@ -4868,7 +4868,7 @@
 	font-style:italic;
 }
 
-.recommendations p span{
+.recommendations p > span{
 	width:100%;
 	max-width:100%;
 	min-width:100%;
