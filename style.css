@@ -4854,12 +4854,13 @@
 }
 
 .recommendations p{
-	font-size: 15px;
+	font-size: 20px;
 	width:70%;
 	max-width:70%;
 	min-width:70%;
 	margin-left:15%;
 	margin-right:15px;
+	height:70%;
 }
 
 @media screen and (max-width: 1000px) {
