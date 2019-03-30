@@ -4867,6 +4867,12 @@
 	height:90%;
 }
 
+.recommendations p span{
+	width:100%;
+	max-width:100%;
+	min-width:100%;
+}
+
 @media screen and (max-width: 1000px) {
 
 	.skills{
