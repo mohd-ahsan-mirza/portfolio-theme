@@ -134,7 +134,7 @@
                     </p>
                 </div>
                 <div class="item">
-                    <p class="text-left font-italic">
+                    <p class="text-left">
                         "
                         Ahsan is a developer with a ton of potential and a keen eye for detail. 
                         He has continued to surpass my expectations by tackling all assigned tasks not just from a 
@@ -142,6 +142,18 @@
                         "
                         <br/>
                         <span class="text-right">Raahul Biswas, Product Manager<br/>Engage People - 2018</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <p class="text-left">
+                        "
+                        Called upon to do everything from front end programming to database schema design to 
+                        virtual machine set up, Ahsan always applied himself with the greatest commitment to the 
+                        challenges put before him. His positive attitude and strong social skills made him a 
+                        pleasure to work with and a trusted customer contact person for support issues. A fine worker!
+                        "
+                        <br/>
+                        <span class="text-right">Ryan Gallimore, CEO<br/>Spire Software - 2017</span>
                     </p>
                 </div>      
             </div>
