@@ -4850,7 +4850,7 @@
 
 .recommendations{
 	background-color: whitesmoke;
-	height:600px;
+	height:400px;
 }
 
 .carousel-control-prev{
@@ -4925,5 +4925,7 @@
 }
 
 @media screen and (max-width: 768px) {
-	
+	.recommendations{
+		height:600px;
+	}
 }
