@@ -126,7 +126,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                    <p>
+                    <p class="d-block w-80">
                     As an Account Director, I rely heavily on our development teams support on one of our largest 
                     nationwide accounts. Thankfully I have Ahsan’s support and expertise at hand. Ahsan is a 
                     dedicated Software Engineer that I have the pleasure of working with for over 1.5 years. 
@@ -140,7 +140,7 @@
                     </p>
                 </div>
                 <div class="item">
-                    <p>
+                    <p class="d-block w-80">
                     Ahsan is a developer with a ton of potential and a keen eye for detail. 
                     He has continued to surpass my expectations by tackling all assigned tasks not just from a 
                     technical perspective but also identifying future technical and user problems to deliver quality work. 
