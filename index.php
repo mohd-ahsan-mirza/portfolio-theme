@@ -134,7 +134,7 @@
                     </p>
                 </div>
                 <div class="item">
-                    <p class="text-left font-italic">
+                    <p class="text-left">
                         "
                         Ahsan is a developer with a ton of potential and a keen eye for detail. 
                         He has continued to surpass my expectations by tackling all assigned tasks not just from a 
