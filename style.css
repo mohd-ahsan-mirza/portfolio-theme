@@ -4850,7 +4850,7 @@
 
 .recommendations{
 	background-color: whitesmoke;
-	height:350px;
+	height:370px;
 }
 
 .carousel-control-prev{
@@ -4933,6 +4933,11 @@
 
 @media screen and (max-width: 768px) {
 	.recommendations{
-		height:600px;
+		height:620px;
 	}
+
+	.recommendations p span{
+		text-align:center;
+	}
+
 }
