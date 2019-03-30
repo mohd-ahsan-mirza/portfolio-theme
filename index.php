@@ -124,14 +124,7 @@
             <div class="carousel-inner">
                 <div class="item active">
                     <p class="text-left">
-                    As an Account Director, I rely heavily on our development teams support on one of our largest 
-                    nationwide accounts. Thankfully I have Ahsan’s support and expertise at hand. Ahsan is a 
-                    dedicated Software Engineer that I have the pleasure of working with for over 1.5 years. 
-                    Both myself and our clients can always count on his attention to detail, passion to 
-                    create/develop what has been requested and proactively call out any gaps and/or improvements 
-                    to a new development solution. On several occasions, there have been times when we are on 
-                    client calls, where he has lead the conversation and walked the client through better/efficient 
-                    alternatives to their solution requests, saving our client time and money. Our clients at times 
+                    Our clients at times 
                     have acknowledged that he knows the solution better then they do and always feel confident 
                     knowing that they have Ahsan on their side.<br/>
                     <span class="text-right">John Medeiros, Account Director at Engage People Inc. - 2018</span>
@@ -142,8 +135,7 @@
                     Ahsan is a developer with a ton of potential and a keen eye for detail. 
                     He has continued to surpass my expectations by tackling all assigned tasks not just from a 
                     technical perspective but also identifying future technical and user problems to deliver quality work. 
-                    His communication with the client has been fantastic and recognized and I could not be more pleased to 
-                    have someone take lead on major projects.<br/>
+                    <br/>
                     <span class="text-right">Raahul Biswas, IT Product Manager at Engage People Inc. - 2018</span>
                     </p>
                 </div>      
