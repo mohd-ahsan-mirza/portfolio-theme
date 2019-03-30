@@ -4883,8 +4883,8 @@
 	font-size:18px;
 }
 
-.carousel-indicators{
-	color: black !important;
+.carousel-indicators .active{
+	background-color: black !important;
 }
 
 @media screen and (max-width: 1000px) {
