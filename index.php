@@ -130,19 +130,19 @@
                         knowing that they have Ahsan on their side.
                         "
                         <br/>
+                        <span class="text-right">John Medeiros, Account Director at Engage People - 2018</span>
                     </p>
-                    <span class="text-right">John Medeiros, Account Director at Engage People - 2018</span>
                 </div>
                 <div class="item">
-                    <p class="text-left">
+                    <p class="text-left font-italic">
                         "
                         Ahsan is a developer with a ton of potential and a keen eye for detail. 
                         He has continued to surpass my expectations by tackling all assigned tasks not just from a 
                         technical perspective but also identifying future technical and user problems to deliver quality work. 
                         "
                         <br/>
+                        <span class="text-right">Raahul Biswas, IT Product Manager at Engage People - 2018</span>
                     </p>
-                    <span class="text-right">Raahul Biswas, IT Product Manager at Engage People - 2018</span>
                 </div>      
             </div>
             <ol class="carousel-indicators">

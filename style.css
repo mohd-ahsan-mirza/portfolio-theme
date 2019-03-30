@@ -4874,6 +4874,7 @@
 	min-width:100%;
 	padding:10px;
 	float: right;
+	font-style: normal !important;
 }
 
 @media screen and (max-width: 1000px) {
