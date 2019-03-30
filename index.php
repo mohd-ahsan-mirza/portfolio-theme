@@ -125,9 +125,11 @@
                 <div class="item active">
                     <p class="text-left">
                         "
-                        Our clients at times 
-                        have acknowledged that he knows the solution better then they do and always feel confident 
-                        knowing that they have Ahsan on their side.
+                        Both myself and our clients can always count on his attention to detail, passion to 
+                        create/develop what has been requested and proactively call out any gaps and/or improvements 
+                        to a new development solution.
+                        Our clients at times have acknowledged that he knows the solution better then they do and 
+                        always feel confident knowing that they have Ahsan on their side.
                         "
                         <br/>
                         <span class="text-right">John Medeiros, Account Director<br/>Engage People - 2018</span>
