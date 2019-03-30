@@ -4853,6 +4853,14 @@
 	max-height:400px;
 }
 
+.recommendations p{
+	font-size: 15px;
+	width:70%;
+	max-width:70%;
+	min-width:70%;
+	margin-left:15%;
+	margin-right:15px;
+}
 
 @media screen and (max-width: 1000px) {
 
