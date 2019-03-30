@@ -141,7 +141,7 @@
                         technical perspective but also identifying future technical and user problems to deliver quality work. 
                         "
                         <br/>
-                        <span class="text-right">Raahul Biswas, IT Product Manager<br/>Engage People - 2018</span>
+                        <span class="text-right">Raahul Biswas, Product Manager<br/>Engage People - 2018</span>
                     </p>
                 </div>      
             </div>
