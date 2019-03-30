@@ -4876,6 +4876,7 @@
 	float: right;
 	font-style: normal !important;
 	text-align:center;
+	font-size:15px;
 }
 
 @media screen and (max-width: 1000px) {
