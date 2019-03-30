@@ -144,9 +144,8 @@
                     His communication with the client has been fantastic and recognized and I could not be more pleased to 
                     have someone take lead on major projects.
                     </p>
-                </div>      
-            </div>
-            <ol class="carousel-indicators">
+                </div>
+                <ol class="carousel-indicators">
                 <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselIndicators" data-slide-to="1"></li>
             </ol>
@@ -157,7 +156,8 @@
             <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-            </a>
+            </a>      
+            </div>
         </div>
     </section>
 <?php get_footer(); ?>
