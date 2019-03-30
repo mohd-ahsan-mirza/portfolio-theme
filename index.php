@@ -135,7 +135,7 @@
                     have acknowledged that he knows the solution better then they do and always feel confident 
                     knowing that they have Ahsan on their side.
                     </p>
-                    <p class="text-right">John Medeiros, Account Director at Engage People Inc. - 2018</p>
+                    <span class="text-right">John Medeiros, Account Director at Engage People Inc. - 2018</span>
                 </div>
                 <div class="item">
                     <p class="text-left">
@@ -145,7 +145,7 @@
                     His communication with the client has been fantastic and recognized and I could not be more pleased to 
                     have someone take lead on major projects.
                     </p>
-                    <p class="text-right">Raahul Biswas, IT Product Manager at Engage People Inc. - 2018</p>
+                    <span class="text-right">Raahul Biswas, IT Product Manager at Engage People Inc. - 2018</span>
                 </div>      
             </div>
             <ol class="carousel-indicators">
