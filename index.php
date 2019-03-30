@@ -119,15 +119,44 @@
         </div>
     </section>
     <section class="recommendations">
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselIndicators" data-slide-to="1"></li>
+            </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                    SLIDE 1
+                    <p>
+                    As an Account Director, I rely heavily on our development teams support on one of our largest 
+                    nationwide accounts. Thankfully I have Ahsan’s support and expertise at hand. Ahsan is a 
+                    dedicated Software Engineer that I have the pleasure of working with for over 1.5 years. 
+                    Both myself and our clients can always count on his attention to detail, passion to 
+                    create/develop what has been requested and proactively call out any gaps and/or improvements 
+                    to a new development solution. On several occasions, there have been times when we are on 
+                    client calls, where he has lead the conversation and walked the client through better/efficient 
+                    alternatives to their solution requests, saving our client time and money. Our clients at times 
+                    have acknowledged that he knows the solution better then they do and always feel confident 
+                    knowing that they have Ahsan on their side.
+                    </p>
                 </div>
                 <div class="item">
-                    SLIDE 2
+                    <p>
+                    Ahsan is a developer with a ton of potential and a keen eye for detail. 
+                    He has continued to surpass my expectations by tackling all assigned tasks not just from a 
+                    technical perspective but also identifying future technical and user problems to deliver quality work. 
+                    His communication with the client has been fantastic and recognized and I could not be more pleased to 
+                    have someone take lead on major projects.
+                    </p>
                 </div>      
             </div>
+            <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </section>
 <?php get_footer(); ?>
