@@ -121,7 +121,7 @@
     <section class="recommendations">
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="item">
+                <div class="item active">
                     <img class="img-responsive" alt="SLIDE 1">
                 </div>
                 <div class="item">
