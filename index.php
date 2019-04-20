@@ -110,6 +110,9 @@
     <section class="projects">
         <h1 class='text-center'>SOME RECENT PROJECTS</h1>
         <div class="col-lg-4 col-md-6 col-sm-12">
+            <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/redis-local-encryptor'><i class="fab fa-python fa-5x"></i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
             <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/git-automator'><i class="fab fa-python fa-5x"></i></a>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
