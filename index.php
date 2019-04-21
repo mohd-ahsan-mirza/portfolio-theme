@@ -116,7 +116,7 @@
             <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/git-automator'><i class="fab fa-python fa-5x"></i></a>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
-            <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/list-manipulator'><i class="fab fa-react fa-5x"></i></a>
+            <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/react-projects#list-manipulator'><i class="fab fa-react fa-5x"></i></a>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
         </div>
