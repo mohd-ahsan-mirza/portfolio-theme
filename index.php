@@ -116,6 +116,7 @@
             <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza/react-projects#list-manipulator'><i class="fab fa-react fa-5x"></i></a>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
+            <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza?tab=repositories'><i class="fab fa-github-square fa-5x"></i></a>
         </div>
     </section>
     <section class="recommendations">
