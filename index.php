@@ -87,7 +87,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <section class="projects">
         <h1 class='text-center'>PERSONAL PROJECTS</h1>
         <div class="col-lg-4 col-md-6 col-sm-12">
@@ -102,7 +102,7 @@
         <div class="col-lg-4 col-md-6 col-sm-12">
             <a class="img-responsive text-center" href='https://github.com/mohd-ahsan-mirza?tab=repositories'><i class="fab fa-github-square fa-5x"></i></a>
         </div>
-    </section>-->
+    </section>
     <section class="recommendations">
         <h1 class='text-center'>TESTIMONIALS</h1>
         <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
