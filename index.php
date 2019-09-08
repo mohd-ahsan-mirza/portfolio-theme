@@ -105,7 +105,7 @@
     </section>
     <section class="recommendations">
         <h1 class='text-center'>TESTIMONIALS</h1>
-        <div id="carousel-recommendations" class="carousel slide" data-ride="carousel">
+        <div id="carousel-recommendations" class="carousel slide" data-ride="carousel" data-interval="100">
             <div class="carousel-inner">
                 <div class="item active">
                     <p class="text-left">
