@@ -65,7 +65,7 @@
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
                 <div class="skillbar clearfix " data-percent="45%">
-                    <div class="skillbar-title" style="background: red;"><span>Virtualization</span></div>
+                    <div class="skillbar-title" style="background: red;"><span>Docker</span></div>
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
             </div>
@@ -75,15 +75,15 @@
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
                 <div class="skillbar clearfix " data-percent="60%">
-                    <div class="skillbar-title" style="background: red;"><span>WP Development</span></div>
+                    <div class="skillbar-title" style="background: red;"><span>AWS</span></div>
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
                 <div class="skillbar clearfix " data-percent="80%">
-                    <div class="skillbar-title" style="background: red;"><span>Version Control</span></div>
+                    <div class="skillbar-title" style="background: red;"><span>Git</span></div>
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
                 <div class="skillbar clearfix " data-percent="50%">
-                    <div class="skillbar-title" style="background: red;"><span>DevOps</span></div>
+                    <div class="skillbar-title" style="background: red;"><span>Infrastructure</span></div>
                     <div class="skillbar-bar" style="background: #F64747;"></div>
                 </div>
                 <div class="skillbar clearfix " data-percent="55%">
@@ -96,16 +96,6 @@
                 </div>
             </div>
         </div>
-        <div class="skills-detail-link-section">
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <a class="img-responsive text-center" href='https://mohd-ahsan-mirza.github.io/digital-resume/'><i class="fab fa-react fa-7x"></i></a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                </div>
-        </div>
-        <div class="text-center">CLICK ABOVE</div>
     </section>
     <section class="projects">
         <h1 class='text-center'>PERSONAL PROJECTS</h1>
