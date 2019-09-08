@@ -24,7 +24,7 @@
             <ul>
                 <li><span class='info-key'>Name:</span><span class='info-value'>Ahsan Mirza</span></li>
                 <li><span class='info-key'>Experience:</span><span class='info-value'>3+ Years</span></li>
-                <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer</span></li>
+                <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer II</span></li>
                 <li><span class='info-key'>Current Company:</span><span class='info-value'>Engage People Inc.</span></li>
                 <li><span class='info-key'>Location:</span><span class='info-value'>Toronto</span></li>
                 <li><span class='info-key'>Current Interests:</span><span class='info-value'>AWS, Scalability, Availablity, Multi-region architecture, Big Data, AI, GCP</span></li>
