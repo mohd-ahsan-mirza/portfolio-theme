@@ -4839,7 +4839,7 @@
 }
 
 .projects{
-	max-height:300px;
+	max-height:500px;
 	height:100%;
 	width:100%;
 	background-color: whitesmoke;
@@ -4850,7 +4850,8 @@
 }
 
 .recommendations{
-	height:600px;
+	max-height:600px;
+	height: 100%;
 }
 
 .carousel-control-prev{
