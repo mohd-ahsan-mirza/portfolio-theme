@@ -144,7 +144,7 @@
                     </p>
                 </div>      
             </div>
-            <ol class="carousel-indicators">
+            <!--<ol class="carousel-indicators">
                 <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselIndicators" data-slide-to="2"></li>
@@ -156,7 +156,7 @@
             <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-            </a>
+            </a>-->
         </div>
     </section>
 <?php get_footer(); ?>
