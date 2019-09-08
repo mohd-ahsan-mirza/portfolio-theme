@@ -18,11 +18,6 @@
                         <span class="label">GitHub</span>
                     </a>
                 </li>
-                <li>
-                    <a style="color: inherit;" href='https://ahsanmirza.com/blogs' class="icon round fa-wordpress">
-                        <span class="label">GitHub</span>
-                    </a>
-                </li>
 			</ul>
         </div>
         <div class="info">
@@ -32,7 +27,7 @@
                 <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer</span></li>
                 <li><span class='info-key'>Current Company:</span><span class='info-value'>Engage People Inc.</span></li>
                 <li><span class='info-key'>Location:</span><span class='info-value'>Toronto</span></li>
-                <li><span class='info-key'>Current Interests:</span><span class='info-value'>API Development, UI Design, Data Analysis, AI, Solution Architecture</span></li>
+                <li><span class='info-key'>Current Interests:</span><span class='info-value'>AWS, Scalability, Availablity, Multi-region architecture, Big Data, AI, GCP</span></li>
             </ul>
         </div>
     </section>
