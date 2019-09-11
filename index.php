@@ -110,6 +110,21 @@
                 <div class="item active">
                     <p class="text-left">
                         "
+                        I’ve had a chance to work closely with Ahsan for the last few months supporting several key clients and 
+                        their enterprise-level applications. During that period Ahsan helped to efficiently manage and resolve a 
+                        significant number of critical issues and was always willing to jump on the most challenging and 
+                        technically complicated tasks. He also played a significant role in building the team and training the 
+                        new members. At the same time he was acting as a knowledge center for the rest of the developers being 
+                        the most experienced team member. As a Project Manager I know that I can always rely on Ahsan and count 
+                        on his expertise and willingness to help with the toughest and time-sensitive tasks. 
+                        "
+                        <br/>
+                        <span class="text-right">Alexey Goncharov, Project Manager<br/>Engage People - 2019</span>
+                    </p>
+                </div>
+                <div class="item">
+                    <p class="text-left">
+                        "
                         Both myself and our clients can always count on his attention to detail, passion to 
                         create/develop what has been requested and proactively call out any gaps and/or improvements 
                         to a new development solution.
