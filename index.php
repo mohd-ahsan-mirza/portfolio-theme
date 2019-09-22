@@ -27,7 +27,7 @@
                 <li><span class='info-key'>Current Job Title:</span><span class='info-value'>Software Engineer II</span></li>
                 <li><span class='info-key'>Current Company:</span><span class='info-value'>Engage People Inc.</span></li>
                 <li><span class='info-key'>Location:</span><span class='info-value'>Toronto</span></li>
-                <li><span class='info-key'>Current Interests:</span><span class='info-value'>AWS, Scalability, Availablity, Multi-region architecture, Big Data, AI, GCP</span></li>
+                <li><span class='info-key'>Current Interests:</span><span class='info-value'>AWS, Multi-Region Scalablity and Availablity , Serverless Architecture, Big Data, AI, GCP</span></li>
             </ul>
         </div>
     </section>
